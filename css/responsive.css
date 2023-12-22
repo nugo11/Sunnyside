@@ -46,7 +46,13 @@
     height: 80vh;
   }
 
+  .box {
+    text-align: center;
+  }
 
+  .box a {
+    margin: auto;
+  }
 
   .box:nth-child(6) {
     height: 80vh;
